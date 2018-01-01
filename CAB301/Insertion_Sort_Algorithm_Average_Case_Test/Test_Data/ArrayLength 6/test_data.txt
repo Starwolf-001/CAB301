@@ -1,0 +1,1701 @@
+Test 1
+Unsorted Array
+1139
+8180
+24356
+14124
+20029
+19386
+Elaspsed time is 0.292237 ms
+The number of Basic Operations performed were 4
+Sorted Array
+1139
+8180
+14124
+19386
+20029
+24356
+Test 2
+Unsorted Array
+27296
+27017
+13553
+10627
+31200
+10048
+Elaspsed time is 0.292237 ms
+The number of Basic Operations performed were 11
+Sorted Array
+10048
+10627
+13553
+27017
+27296
+31200
+Test 3
+Unsorted Array
+2469
+4374
+25687
+3464
+18954
+18803
+Elaspsed time is 0.876712 ms
+The number of Basic Operations performed were 5
+Sorted Array
+2469
+3464
+4374
+18803
+18954
+25687
+Test 4
+Unsorted Array
+21724
+23659
+13391
+23838
+7340
+3518
+Elaspsed time is 0.584475 ms
+The number of Basic Operations performed were 11
+Sorted Array
+3518
+7340
+13391
+21724
+23659
+23838
+Test 5
+Unsorted Array
+21058
+2235
+14259
+22614
+16313
+30683
+Elaspsed time is 0.584475 ms
+The number of Basic Operations performed were 4
+Sorted Array
+2235
+14259
+16313
+21058
+22614
+30683
+Test 6
+Unsorted Array
+26119
+29561
+12336
+17430
+32438
+11923
+Elaspsed time is 0.876712 ms
+The number of Basic Operations performed were 9
+Sorted Array
+11923
+12336
+17430
+26119
+29561
+32438
+Test 7
+Unsorted Array
+30643
+27226
+24513
+12586
+6911
+10882
+Elaspsed time is 0.292237 ms
+The number of Basic Operations performed were 14
+Sorted Array
+6911
+10882
+12586
+24513
+27226
+30643
+Test 8
+Unsorted Array
+8040
+30484
+10980
+1322
+25256
+23784
+Elaspsed time is 0.292237 ms
+The number of Basic Operations performed were 7
+Sorted Array
+1322
+8040
+10980
+23784
+25256
+30484
+Test 9
+Unsorted Array
+28397
+19394
+32003
+20658
+9027
+30434
+Elaspsed time is 0.584475 ms
+The number of Basic Operations performed were 8
+Sorted Array
+9027
+19394
+20658
+28397
+30434
+32003
+Test 10
+Unsorted Array
+15743
+31467
+19919
+14045
+3313
+29608
+Elaspsed time is 0.292237 ms
+The number of Basic Operations performed were 9
+Sorted Array
+3313
+14045
+15743
+19919
+29608
+31467
+Test 11
+Unsorted Array
+28319
+29337
+16763
+22545
+3979
+10398
+Elaspsed time is 0.292237 ms
+The number of Basic Operations performed were 12
+Sorted Array
+3979
+10398
+16763
+22545
+28319
+29337
+Test 12
+Unsorted Array
+19284
+21525
+30488
+26220
+7879
+29788
+Elaspsed time is 0.292237 ms
+The number of Basic Operations performed were 6
+Sorted Array
+7879
+19284
+21525
+26220
+29788
+30488
+Test 13
+Unsorted Array
+668
+18962
+32639
+21629
+27555
+16892
+Elaspsed time is 0.292237 ms
+The number of Basic Operations performed were 6
+Sorted Array
+668
+16892
+18962
+21629
+27555
+32639
+Test 14
+Unsorted Array
+4353
+32114
+31890
+32525
+20602
+2121
+Elaspsed time is 0.292237 ms
+The number of Basic Operations performed were 9
+Sorted Array
+2121
+4353
+20602
+31890
+32114
+32525
+Test 15
+Unsorted Array
+30858
+19694
+23483
+22811
+14991
+17573
+Elaspsed time is 0.292237 ms
+The number of Basic Operations performed were 12
+Sorted Array
+14991
+17573
+19694
+22811
+23483
+30858
+Test 16
+Unsorted Array
+10626
+1602
+20458
+3433
+5883
+16327
+Elaspsed time is 0.584475 ms
+The number of Basic Operations performed were 6
+Sorted Array
+1602
+3433
+5883
+10626
+16327
+20458
+Test 17
+Unsorted Array
+4555
+8116
+28294
+19226
+563
+16027
+Elaspsed time is 0.584475 ms
+The number of Basic Operations performed were 7
+Sorted Array
+563
+4555
+8116
+16027
+19226
+28294
+Test 18
+Unsorted Array
+19387
+26374
+28689
+7003
+171
+11235
+Elaspsed time is 0.292237 ms
+The number of Basic Operations performed were 10
+Sorted Array
+171
+7003
+11235
+19387
+26374
+28689
+Test 19
+Unsorted Array
+9900
+22324
+24681
+15374
+11328
+22394
+Elaspsed time is 0.584475 ms
+The number of Basic Operations performed were 6
+Sorted Array
+9900
+11328
+15374
+22324
+22394
+24681
+Test 20
+Unsorted Array
+4810
+22678
+21484
+8169
+21864
+11832
+Elaspsed time is 0.584475 ms
+The number of Basic Operations performed were 7
+Sorted Array
+4810
+8169
+11832
+21484
+21864
+22678
+Test 21
+Unsorted Array
+9931
+10041
+19949
+28302
+26722
+23026
+Elaspsed time is 0.292237 ms
+The number of Basic Operations performed were 3
+Sorted Array
+9931
+10041
+19949
+23026
+26722
+28302
+Test 22
+Unsorted Array
+20878
+2435
+14906
+16258
+17877
+6922
+Elaspsed time is 0.292237 ms
+The number of Basic Operations performed were 8
+Sorted Array
+2435
+6922
+14906
+16258
+17877
+20878
+Test 23
+Unsorted Array
+8909
+30092
+32420
+24848
+31655
+30084
+Elaspsed time is 0.584475 ms
+The number of Basic Operations performed were 6
+Sorted Array
+8909
+24848
+30084
+30092
+31655
+32420
+Test 24
+Unsorted Array
+15735
+19886
+2757
+22649
+13801
+2468
+Elaspsed time is 0.292237 ms
+The number of Basic Operations performed were 10
+Sorted Array
+2468
+2757
+13801
+15735
+19886
+22649
+Test 25
+Unsorted Array
+19265
+3377
+15226
+31491
+10545
+13435
+Elaspsed time is 0.584475 ms
+The number of Basic Operations performed were 8
+Sorted Array
+3377
+10545
+13435
+15226
+19265
+31491
+Test 26
+Unsorted Array
+31887
+9257
+13516
+6081
+28346
+28402
+Elaspsed time is 0.292237 ms
+The number of Basic Operations performed were 7
+Sorted Array
+6081
+9257
+13516
+28346
+28402
+31887
+Test 27
+Unsorted Array
+4302
+28125
+20540
+14381
+8222
+25133
+Elaspsed time is 5.26027 ms
+The number of Basic Operations performed were 7
+Sorted Array
+4302
+8222
+14381
+20540
+25133
+28125
+Test 28
+Unsorted Array
+25288
+12109
+13998
+4586
+17290
+24161
+Elaspsed time is 0.292237 ms
+The number of Basic Operations performed were 7
+Sorted Array
+4586
+12109
+13998
+17290
+24161
+25288
+Test 29
+Unsorted Array
+20899
+29621
+1128
+28231
+6839
+23923
+Elaspsed time is 13.1507 ms
+The number of Basic Operations performed were 8
+Sorted Array
+1128
+6839
+20899
+23923
+28231
+29621
+Test 30
+Unsorted Array
+27272
+31516
+15067
+7259
+30226
+3318
+Elaspsed time is 0.584475 ms
+The number of Basic Operations performed were 11
+Sorted Array
+3318
+7259
+15067
+27272
+30226
+31516
+Test 31
+Unsorted Array
+16416
+21325
+5943
+2262
+6871
+4966
+Elaspsed time is 0.584475 ms
+The number of Basic Operations performed were 11
+Sorted Array
+2262
+4966
+5943
+6871
+16416
+21325
+Test 32
+Unsorted Array
+13426
+11736
+30199
+25297
+26125
+29357
+Elaspsed time is 0.584475 ms
+The number of Basic Operations performed were 4
+Sorted Array
+11736
+13426
+25297
+26125
+29357
+30199
+Test 33
+Unsorted Array
+28352
+9696
+2792
+22347
+28574
+7771
+Elaspsed time is 0.584475 ms
+The number of Basic Operations performed were 8
+Sorted Array
+2792
+7771
+9696
+22347
+28352
+28574
+Test 34
+Unsorted Array
+6774
+32483
+12880
+29976
+22536
+9748
+Elaspsed time is 0.292237 ms
+The number of Basic Operations performed were 8
+Sorted Array
+6774
+9748
+12880
+22536
+29976
+32483
+Test 35
+Unsorted Array
+11593
+459
+19278
+18782
+28759
+17696
+Elaspsed time is 0.876712 ms
+The number of Basic Operations performed were 5
+Sorted Array
+459
+11593
+17696
+18782
+19278
+28759
+Test 36
+Unsorted Array
+8730
+4057
+13442
+18695
+24424
+20007
+Elaspsed time is 0.292237 ms
+The number of Basic Operations performed were 2
+Sorted Array
+4057
+8730
+13442
+18695
+20007
+24424
+Test 37
+Unsorted Array
+9015
+23375
+31644
+13735
+6310
+22135
+Elaspsed time is 0.292237 ms
+The number of Basic Operations performed were 8
+Sorted Array
+6310
+9015
+13735
+22135
+23375
+31644
+Test 38
+Unsorted Array
+23050
+1003
+25960
+27841
+14267
+18029
+Elaspsed time is 0.292237 ms
+The number of Basic Operations performed were 7
+Sorted Array
+1003
+14267
+18029
+23050
+25960
+27841
+Test 39
+Unsorted Array
+21349
+10631
+30574
+1661
+29173
+7378
+Elaspsed time is 0.292237 ms
+The number of Basic Operations performed were 9
+Sorted Array
+1661
+7378
+10631
+21349
+29173
+30574
+Test 40
+Unsorted Array
+28382
+29054
+27973
+25897
+6467
+20818
+Elaspsed time is 0.584475 ms
+The number of Basic Operations performed were 13
+Sorted Array
+6467
+20818
+25897
+27973
+28382
+29054
+Test 41
+Unsorted Array
+29949
+2983
+21275
+26899
+30239
+26193
+Elaspsed time is 0.584475 ms
+The number of Basic Operations performed were 6
+Sorted Array
+2983
+21275
+26193
+26899
+29949
+30239
+Test 42
+Unsorted Array
+810
+2564
+11314
+29862
+21696
+29895
+Elaspsed time is 0.584475 ms
+The number of Basic Operations performed were 1
+Sorted Array
+810
+2564
+11314
+21696
+29862
+29895
+Test 43
+Unsorted Array
+19873
+27255
+26426
+23248
+22366
+23800
+Elaspsed time is 0.292237 ms
+The number of Basic Operations performed were 8
+Sorted Array
+19873
+22366
+23248
+23800
+26426
+27255
+Test 44
+Unsorted Array
+5835
+5145
+15306
+17944
+17021
+23831
+Elaspsed time is 0.584475 ms
+The number of Basic Operations performed were 2
+Sorted Array
+5145
+5835
+15306
+17021
+17944
+23831
+Test 45
+Unsorted Array
+30937
+21006
+13170
+12526
+22897
+11060
+Elaspsed time is 0.584475 ms
+The number of Basic Operations performed were 12
+Sorted Array
+11060
+12526
+13170
+21006
+22897
+30937
+Test 46
+Unsorted Array
+2416
+5089
+26132
+14361
+20637
+25100
+Elaspsed time is 0.292237 ms
+The number of Basic Operations performed were 3
+Sorted Array
+2416
+5089
+14361
+20637
+25100
+26132
+Test 47
+Unsorted Array
+18623
+32721
+9350
+30293
+10258
+10384
+Elaspsed time is 0.584475 ms
+The number of Basic Operations performed were 9
+Sorted Array
+9350
+10258
+10384
+18623
+30293
+32721
+Test 48
+Unsorted Array
+1126
+15776
+15792
+17528
+15526
+2626
+Elaspsed time is 0.584475 ms
+The number of Basic Operations performed were 7
+Sorted Array
+1126
+2626
+15526
+15776
+15792
+17528
+Test 49
+Unsorted Array
+11241
+24750
+2464
+15288
+22167
+2739
+Elaspsed time is 0.292237 ms
+The number of Basic Operations performed were 8
+Sorted Array
+2464
+2739
+11241
+15288
+22167
+24750
+Test 50
+Unsorted Array
+22440
+3738
+17221
+16370
+17485
+10442
+Elaspsed time is 0.584475 ms
+The number of Basic Operations performed were 9
+Sorted Array
+3738
+10442
+16370
+17221
+17485
+22440
+Test 51
+Unsorted Array
+17559
+31637
+17628
+13809
+29926
+22173
+Elaspsed time is 0.292237 ms
+The number of Basic Operations performed were 7
+Sorted Array
+13809
+17559
+17628
+22173
+29926
+31637
+Test 52
+Unsorted Array
+5670
+10284
+17450
+28210
+22915
+28930
+Elaspsed time is 0.584475 ms
+The number of Basic Operations performed were 1
+Sorted Array
+5670
+10284
+17450
+22915
+28210
+28930
+Test 53
+Unsorted Array
+7453
+1079
+791
+18074
+26013
+3618
+Elaspsed time is 0.584475 ms
+The number of Basic Operations performed were 6
+Sorted Array
+791
+1079
+3618
+7453
+18074
+26013
+Test 54
+Unsorted Array
+32084
+18730
+24146
+9739
+9664
+7347
+Elaspsed time is 0.292237 ms
+The number of Basic Operations performed were 14
+Sorted Array
+7347
+9664
+9739
+18730
+24146
+32084
+Test 55
+Unsorted Array
+9618
+4610
+1785
+19180
+24961
+21926
+Elaspsed time is 0.876712 ms
+The number of Basic Operations performed were 4
+Sorted Array
+1785
+4610
+9618
+19180
+21926
+24961
+Test 56
+Unsorted Array
+29686
+379
+21885
+500
+26767
+107
+Elaspsed time is 0.292237 ms
+The number of Basic Operations performed were 10
+Sorted Array
+107
+379
+500
+21885
+26767
+29686
+Test 57
+Unsorted Array
+26297
+14172
+21312
+19675
+21543
+3610
+Elaspsed time is 0.292237 ms
+The number of Basic Operations performed were 10
+Sorted Array
+3610
+14172
+19675
+21312
+21543
+26297
+Test 58
+Unsorted Array
+11306
+31731
+9628
+22723
+32090
+10781
+Elaspsed time is 0.292237 ms
+The number of Basic Operations performed were 7
+Sorted Array
+9628
+10781
+11306
+22723
+31731
+32090
+Test 59
+Unsorted Array
+5679
+29982
+16462
+29297
+32226
+7990
+Elaspsed time is 0.584475 ms
+The number of Basic Operations performed were 6
+Sorted Array
+5679
+7990
+16462
+29297
+29982
+32226
+Test 60
+Unsorted Array
+13493
+31344
+32388
+31405
+5239
+26102
+Elaspsed time is 0.584475 ms
+The number of Basic Operations performed were 8
+Sorted Array
+5239
+13493
+26102
+31344
+31405
+32388
+Test 61
+Unsorted Array
+30677
+18003
+18677
+18282
+1772
+28151
+Elaspsed time is 0.584475 ms
+The number of Basic Operations performed were 9
+Sorted Array
+1772
+18003
+18282
+18677
+28151
+30677
+Test 62
+Unsorted Array
+1426
+24632
+5334
+28286
+27506
+17793
+Elaspsed time is 0.292237 ms
+The number of Basic Operations performed were 5
+Sorted Array
+1426
+5334
+17793
+24632
+27506
+28286
+Test 63
+Unsorted Array
+14464
+16434
+6786
+15633
+28630
+15196
+Elaspsed time is 0.292237 ms
+The number of Basic Operations performed were 6
+Sorted Array
+6786
+14464
+15196
+15633
+16434
+28630
+Test 64
+Unsorted Array
+21432
+26257
+29741
+11028
+4252
+1277
+Elaspsed time is 0.584475 ms
+The number of Basic Operations performed were 12
+Sorted Array
+1277
+4252
+11028
+21432
+26257
+29741
+Test 65
+Unsorted Array
+11742
+600
+13319
+31833
+2868
+26460
+Elaspsed time is 0.292237 ms
+The number of Basic Operations performed were 5
+Sorted Array
+600
+2868
+11742
+13319
+26460
+31833
+Test 66
+Unsorted Array
+14378
+22432
+16009
+2337
+32211
+27390
+Elaspsed time is 0.292237 ms
+The number of Basic Operations performed were 5
+Sorted Array
+2337
+14378
+16009
+22432
+27390
+32211
+Test 67
+Unsorted Array
+10155
+29513
+8428
+26174
+27781
+21546
+Elaspsed time is 0.584475 ms
+The number of Basic Operations performed were 7
+Sorted Array
+8428
+10155
+21546
+26174
+27781
+29513
+Test 68
+Unsorted Array
+30276
+27526
+1275
+26913
+5779
+32322
+Elaspsed time is 0.584475 ms
+The number of Basic Operations performed were 8
+Sorted Array
+1275
+5779
+26913
+27526
+30276
+32322
+Test 69
+Unsorted Array
+15893
+1320
+6840
+24158
+30816
+26027
+Elaspsed time is 0.292237 ms
+The number of Basic Operations performed were 3
+Sorted Array
+1320
+6840
+15893
+24158
+26027
+30816
+Test 70
+Unsorted Array
+27972
+9144
+9617
+18840
+21820
+11733
+Elaspsed time is 0.584475 ms
+The number of Basic Operations performed were 7
+Sorted Array
+9144
+9617
+11733
+18840
+21820
+27972
+Test 71
+Unsorted Array
+18796
+32438
+7707
+15315
+484
+22839
+Elaspsed time is 0.292237 ms
+The number of Basic Operations performed were 9
+Sorted Array
+484
+7707
+15315
+18796
+22839
+32438
+Test 72
+Unsorted Array
+279
+16542
+23172
+18832
+13221
+18279
+Elaspsed time is 0.292237 ms
+The number of Basic Operations performed were 6
+Sorted Array
+279
+13221
+16542
+18279
+18832
+23172
+Test 73
+Unsorted Array
+28429
+1160
+16191
+31826
+8545
+29071
+Elaspsed time is 0.292237 ms
+The number of Basic Operations performed were 6
+Sorted Array
+1160
+8545
+16191
+28429
+29071
+31826
+Test 74
+Unsorted Array
+1637
+11631
+26271
+21330
+6882
+22508
+Elaspsed time is 0.584475 ms
+The number of Basic Operations performed were 5
+Sorted Array
+1637
+6882
+11631
+21330
+22508
+26271
+Test 75
+Unsorted Array
+28560
+24204
+18768
+5513
+12354
+13087
+Elaspsed time is 0.584475 ms
+The number of Basic Operations performed were 12
+Sorted Array
+5513
+12354
+13087
+18768
+24204
+28560
+Test 76
+Unsorted Array
+32222
+32331
+2802
+27491
+26193
+21109
+Elaspsed time is 0.584475 ms
+The number of Basic Operations performed were 11
+Sorted Array
+2802
+21109
+26193
+27491
+32222
+32331
+Test 77
+Unsorted Array
+8751
+13758
+30025
+180
+5693
+11381
+Elaspsed time is 0.584475 ms
+The number of Basic Operations performed were 8
+Sorted Array
+180
+5693
+8751
+11381
+13758
+30025
+Test 78
+Unsorted Array
+10950
+23706
+12728
+24513
+17898
+6477
+Elaspsed time is 0.292237 ms
+The number of Basic Operations performed were 8
+Sorted Array
+6477
+10950
+12728
+17898
+23706
+24513
+Test 79
+Unsorted Array
+18809
+17958
+17409
+23681
+21438
+1792
+Elaspsed time is 0.584475 ms
+The number of Basic Operations performed were 9
+Sorted Array
+1792
+17409
+17958
+18809
+21438
+23681
+Test 80
+Unsorted Array
+20670
+32163
+31364
+21343
+3015
+17751
+Elaspsed time is 0.292237 ms
+The number of Basic Operations performed were 11
+Sorted Array
+3015
+17751
+20670
+21343
+31364
+32163
+Test 81
+Unsorted Array
+11576
+16660
+18293
+16677
+30095
+23564
+Elaspsed time is 0.292237 ms
+The number of Basic Operations performed were 2
+Sorted Array
+11576
+16660
+16677
+18293
+23564
+30095
+Test 82
+Unsorted Array
+9428
+32623
+5043
+25053
+12530
+18343
+Elaspsed time is 0.292237 ms
+The number of Basic Operations performed were 7
+Sorted Array
+5043
+9428
+12530
+18343
+25053
+32623
+Test 83
+Unsorted Array
+9631
+23455
+26454
+8895
+24012
+2557
+Elaspsed time is 0.292237 ms
+The number of Basic Operations performed were 9
+Sorted Array
+2557
+8895
+9631
+23455
+24012
+26454
+Test 84
+Unsorted Array
+15822
+18400
+3341
+22411
+7534
+16734
+Elaspsed time is 0.292237 ms
+The number of Basic Operations performed were 7
+Sorted Array
+3341
+7534
+15822
+16734
+18400
+22411
+Test 85
+Unsorted Array
+951
+17755
+27861
+24044
+3590
+1483
+Elaspsed time is 0.584475 ms
+The number of Basic Operations performed were 8
+Sorted Array
+951
+1483
+3590
+17755
+24044
+27861
+Test 86
+Unsorted Array
+4018
+16908
+4028
+14752
+32647
+11722
+Elaspsed time is 0.584475 ms
+The number of Basic Operations performed were 5
+Sorted Array
+4018
+4028
+11722
+14752
+16908
+32647
+Test 87
+Unsorted Array
+779
+857
+25005
+19114
+24245
+25789
+Elaspsed time is 0.584475 ms
+The number of Basic Operations performed were 2
+Sorted Array
+779
+857
+19114
+24245
+25005
+25789
+Test 88
+Unsorted Array
+16025
+5599
+10098
+6839
+15965
+15037
+Elaspsed time is 0.292237 ms
+The number of Basic Operations performed were 7
+Sorted Array
+5599
+6839
+10098
+15037
+15965
+16025
+Test 89
+Unsorted Array
+12434
+27491
+3697
+29041
+20451
+6761
+Elaspsed time is 0.292237 ms
+The number of Basic Operations performed were 8
+Sorted Array
+3697
+6761
+12434
+20451
+27491
+29041
+Test 90
+Unsorted Array
+21684
+13808
+2261
+30602
+21422
+27437
+Elaspsed time is 0.292237 ms
+The number of Basic Operations performed were 6
+Sorted Array
+2261
+13808
+21422
+21684
+27437
+30602
+Test 91
+Unsorted Array
+29404
+15224
+9240
+16015
+24342
+9963
+Elaspsed time is 0.292237 ms
+The number of Basic Operations performed were 9
+Sorted Array
+9240
+9963
+15224
+16015
+24342
+29404
+Test 92
+Unsorted Array
+10142
+24482
+302
+6129
+6371
+24589
+Elaspsed time is 0.584475 ms
+The number of Basic Operations performed were 6
+Sorted Array
+302
+6129
+6371
+10142
+24482
+24589
+Test 93
+Unsorted Array
+8064
+2437
+23750
+20420
+3710
+12644
+Elaspsed time is 0.584475 ms
+The number of Basic Operations performed were 7
+Sorted Array
+2437
+3710
+8064
+12644
+20420
+23750
+Test 94
+Unsorted Array
+30948
+27006
+31570
+12316
+21341
+25450
+Elaspsed time is 0.292237 ms
+The number of Basic Operations performed were 10
+Sorted Array
+12316
+21341
+25450
+27006
+30948
+31570
+Test 95
+Unsorted Array
+18885
+1894
+8156
+14365
+2399
+19125
+Elaspsed time is 0.584475 ms
+The number of Basic Operations performed were 6
+Sorted Array
+1894
+2399
+8156
+14365
+18885
+19125
+Test 96
+Unsorted Array
+7633
+31695
+17871
+15887
+3073
+4552
+Elaspsed time is 0.584475 ms
+The number of Basic Operations performed were 11
+Sorted Array
+3073
+4552
+7633
+15887
+17871
+31695
+Test 97
+Unsorted Array
+13966
+22300
+30017
+22037
+4544
+21629
+Elaspsed time is 0.584475 ms
+The number of Basic Operations performed were 9
+Sorted Array
+4544
+13966
+21629
+22037
+22300
+30017
+Test 98
+Unsorted Array
+14974
+3967
+1627
+24414
+32257
+15806
+Elaspsed time is 0.292237 ms
+The number of Basic Operations performed were 5
+Sorted Array
+1627
+3967
+14974
+15806
+24414
+32257
+Test 99
+Unsorted Array
+8586
+27471
+21489
+6121
+9044
+18511
+Elaspsed time is 0.584475 ms
+The number of Basic Operations performed were 8
+Sorted Array
+6121
+8586
+9044
+18511
+21489
+27471
+Test 100
+Unsorted Array
+23578
+20273
+1657
+6954
+10476
+27087
+Elaspsed time is 0.292237 ms
+The number of Basic Operations performed were 7
+Sorted Array
+1657
+6954
+10476
+20273
+23578
+27087
+Tests Completed!

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1461172806 source:d:\documents\qut\cab301\insertion_sort_algorithm_average_case_test\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<Windows.h>
+	<fstream>
+
